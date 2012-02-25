@@ -6,10 +6,13 @@ as the description goes and might not work with all JPEG classes.
 But it works fine with the attached test.jpg
 Feel free to tweak and learn.
 
-How to test
-===========
+Test
+-----
 
+``` bash
 cd qt_src
 qmake
 make
 ./WinniJPEG
+
+```
