@@ -10,9 +10,8 @@ Test
 -----
 
 ``` bash
-cd qt_src
+cd qt_tsrc
 qmake
 make
 ./WinniJPEG
-
 ```
