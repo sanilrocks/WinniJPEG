@@ -13,5 +13,5 @@ Test
 cd qt_tsrc
 qmake
 make
-./WinniJPEG
+./WinniJPEG <jpeg file>
 ```
